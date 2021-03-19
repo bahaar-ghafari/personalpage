@@ -1,0 +1,9 @@
+.body{
+	overflow: hidden;
+	background: radial-gradient(#327af9, #96a4f1);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
